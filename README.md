@@ -8,4 +8,4 @@ Berikut merupakan script MATLAB yang digunakan beserta fungsinya:
 - trendanalysis.m  : melakukan analisis trend linear SLA
 - validatesla.m    : validasi data pasang surut dengan data satelit altimetri
 
-Credits© MuhammmadThariq
+Credits© MuhammmadThariq 2026
